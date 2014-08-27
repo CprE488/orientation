@@ -1,6 +1,6 @@
 CprE 488, Lab 0
 ===============
-Jeramie Vens
+Jeramie Vens,
 Adam Sunderman
 
 Answer
